@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 AVATTAVA means "to be open" to new ideas.</h1>
+<h1 align="center">Hi 👋 AVATTAVA means "to be open" to new ideas...</h1>
 <h3 align="center">Lovers of Poetry & Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avattava-tech&label=Profile%20views&color=0e75b6&style=flat" alt="avattava-tech" /> </p>
@@ -9,13 +9,18 @@
 
 - 🤝 I’m looking for help with **Brackets.io for Debian 12**
 
+- 📝 I regularly write articles on my [Technology Blog](https://avattava.xyz/technology-blog)
+
 - 💬 Ask me about **WordPress**
+
+- 📫 eMail to **contact@avattava.xyz**
 
 - ⚡ Fun fact is that **Bash rocks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avattava_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avattava_tech" height="30" width="40" /></a>
+<a href="/https://avattava.xyz/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://avattava.xyz/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
